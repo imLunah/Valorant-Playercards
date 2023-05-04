@@ -1,6 +1,6 @@
 # Valorant-Playercards
 
-Valorant-Playercards is a website that presents each and every current playercard in the game Valorant. <br/> All the data was implemented through the unofficial Valorant API.
+Valorant-Playercards is a website that presents each and every current playercard in the game Valorant. It showcases the main player banner, wide banner, and even the small profile icon while hovering. All the data was implemented through the unofficial Valorant API.
 
 <img src="https://github.com/imLunah/Valorant-Playercards/blob/main/src/images/valorant-card.png"/> 
 <img src="https://github.com/imLunah/Valorant-Playercards/blob/main/src/images/valorant-card-2.png"/>
