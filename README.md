@@ -14,6 +14,14 @@ Valorant-Playercards is a website that presents each and every current playercar
 ```
 git clone https://github.com/imLunah/Valorant-Playercards.git
 ```
+<hr>
+
+# WIP / Issues
+
+Implement better UI designs. </br>
+Performance slower due to importing images locally. 
+
+<hr>
 
 ## Install package dependencies:
 
