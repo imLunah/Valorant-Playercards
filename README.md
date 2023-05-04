@@ -18,8 +18,9 @@ git clone https://github.com/imLunah/Valorant-Playercards.git
 
 # WIP / Issues
 
-Implement better UI designs. </br>
-Performance slower due to importing images locally. 
+* Implement better UI designs. </br>
+* Performance slower due to importing images locally. </br>
+* Inconsistent mobile responsiveness 
 
 <hr>
 
