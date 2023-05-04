@@ -1,8 +1,8 @@
 # Valorant-Playercards
 
 Valorant-Playercards is a website that presents each and every current playercard in the game Valorant. It showcases the main player banner, wide banner, and even the small profile icon while hovering. All the data was implemented through the unofficial Valorant API.
-
-## Check it out! https://valorant-playercards.netlify.app/
+ 
+<a href="https://valorant-playercards.netlify.app/" target="_blank"> Check it out! </a>
 
 <img src="https://github.com/imLunah/Valorant-Playercards/blob/main/src/images/valorant-card.png"/> 
 <img src="https://github.com/imLunah/Valorant-Playercards/blob/main/src/images/valorant-card-2.png"/>
