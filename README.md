@@ -27,7 +27,7 @@ Performance slower due to importing images locally.
 
 Install npm
 ```
-npm install -g npm
+npm install
 ```
 
 In the project directory, you can run:
